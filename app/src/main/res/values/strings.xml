@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RpgSheetCreator</string>
+
+    <!--  Titles -->
+
+    <string name="action_settings">Settings</string>
+    <string name="title_home">Home</string>
+    <string name="title_description">Description</string>
+    <string name="description_default_text">Descritpion unavailable in this language</string>
+</resources>
